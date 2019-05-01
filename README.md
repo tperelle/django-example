@@ -4,6 +4,7 @@ This example is based on [the official Django tutorial](https://docs.djangoproje
 
 ## Prerequisites
 
+* [A python3 virtualenv with python > 3.7](https://code.visualstudio.com/docs/python/tutorial-django)
 * [Django is installed](https://docs.djangoproject.com/en/2.2/intro/install/)
 
 ## Run unit tests
@@ -30,7 +31,7 @@ FAILED (failures=1)
 Destroying test database for alias 'default'...
 ```
 
-To learn more about Django testing visit: https://docs.djangoproject.com/en/2.2/intro/tutorial05/
+To learn more about Django testing visit: [](https://docs.djangoproject.com/en/2.2/intro/tutorial05/)
 
 ## Run the web app
 
@@ -50,5 +51,5 @@ Quit the server with CONTROL-C.
 
 And visit:
 
-* *http://127.0.0.1:8000/polls*
-* *http://127.0.0.1:8000/admin*
+* *[](http://127.0.0.1:8000/polls)*
+* *[](http://127.0.0.1:8000/admin)*
